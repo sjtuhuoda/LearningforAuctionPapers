@@ -29,11 +29,28 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * Golrezaei, Negin, et al. ["Boosted second price auctions: Revenue optimization for heterogeneous bidders."](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3352923_code2336200.pdf?abstractid=3016465&mirid=1&type=2) Available at SSRN 3016465 (2017).
 * Cai, Yang, Constantinos Daskalakis, and S. Matthew Weinberg. ["An algorithmic characterization of multi-dimensional mechanisms."](https://dl.acm.org/doi/abs/10.1145/2213977.2214021) Proceedings of the forty-fourth annual ACM symposium on Theory of computing. 2012.
 
+### Auction with Budget
+* Che, Yeon-Koo, and Ian Gale. ["Standard auctions with financially constrained bidders."](https://academic.oup.com/restud/article-abstract/65/1/1/1589887) The Review of Economic Studies 65.1 (1998): 1-21.
+* Che, Yeon-Koo, and Ian Gale. ["The optimal mechanism for selling to a budget-constrained buyer."](https://www.sciencedirect.com/science/article/pii/S002205319992639X) Journal of Economic theory 92.2 (2000): 198-233.
+* Pai, Mallesh M., and Rakesh Vohra. ["Optimal auctions with financially constrained buyers."](https://www.sciencedirect.com/science/article/pii/S0022053113001701) Journal of Economic Theory 150 (2014): 383-425.
+* Malakhov, Alexey, and Rakesh V. Vohra. ["Optimal auctions for asymmetrically budget constrained bidders."](https://link.springer.com/content/pdf/10.1007/s10058-008-0051-x.pdf) Review of Economic Design 12.4 (2008): 245-257.
+* Maskin, Eric S. ["Auctions, development, and privatization: Efficient auctions with liquidity-constrained buyers."](https://www.sciencedirect.com/science/article/pii/S001429210000057X) European Economic Review 44.4-6 (2000): 667-681.
+* Laffont, Jean-Jacques, and Jacques Robert. ["Optimal auction with financially constrained buyers."](https://www.sciencedirect.com/science/article/pii/S016517659600849X) Economics Letters 52.2 (1996): 181-186.
+* Borgs, Christian, et al. ["Multi-unit auctions with budget-constrained bidders."](https://dl.acm.org/doi/pdf/10.1145/1064009.1064014) Proceedings of the 6th ACM Conference on Electronic Commerce. 2005.
+* Bhattacharya, Sayan, et al. ["Budget constrained auctions with heterogeneous items."](https://dl.acm.org/doi/pdf/10.1145/1806689.1806743) Proceedings of the forty-second ACM symposium on Theory of computing. 2010.
+* Chawla, Shuchi, David L. Malec, and Azarakhsh Malekian. ["Bayesian mechanism design for budget-constrained agents."](https://dl.acm.org/doi/pdf/10.1145/1993574.1993613) Proceedings of the 12th ACM conference on Electronic commerce. 2011.
+* Ashlagi, Itai, Mark Braverman, and Avinatan Hassidim. ["Ascending unit demand auctions with budget limits."](http://web.mit.edu/iashlagi/www/papers/ud3.pdf) Massachusetts Inst. Technol., Cambridge, MA, USA, Working Paper (2009).
+* Ashlagi, Itai, et al. ["Position auctions with budgets: Existence and uniqueness."](https://dspace.mit.edu/bitstream/handle/1721.1/64459/Ashlagi_Position%20Auctions.pdf?sequence=1&isAllowed=y) (2010).
+* Dobzinski, Shahar, Ron Lavi, and Noam Nisan. ["Multi-unit auctions with budget limits."](https://www.sciencedirect.com/science/article/pii/S089982561100131X) Games and Economic Behavior 74.2 (2012): 486-503.
+* Dütting, Paul, Monika Henzinger, and Martin Starnberger. ["Auctions for heterogeneous items and budget limits."](https://dl.acm.org/doi/pdf/10.1145/2818351) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-17.
+* Dütting, Paul, Monika Henzinger, and Ingmar Weber. ["An expressive mechanism for auctions on the web."](https://dl.acm.org/doi/pdf/10.1145/2716312) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-34.
 
 ## Learning Methods
 
 ### Mechanism Design
 * Dütting, Paul, et al. ["Optimal auctions through deep learning."](http://proceedings.mlr.press/v97/duetting19a/duetting19a.pdf) International Conference on Machine Learning. PMLR, 2019.
+* Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).
+* Feng, Zhe, Harikrishna Narasimhan, and David C. Parkes. ["Deep learning for revenue-optimal auctions with budgets."](http://ifaamas.org/Proceedings/aamas2018/pdfs/p354.pdf) Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems. 2018.
 
 ### Bidding Strategy (Adversarial Network)
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
