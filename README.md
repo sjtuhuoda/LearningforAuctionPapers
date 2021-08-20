@@ -60,6 +60,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ### IC metirc
 * Balcan, Maria-Florina, Tuomas Sandholm, and Ellen Vitercik. ["Estimating approximate incentive compatibility."](https://arxiv.org/pdf/1902.09413.pdf) arXiv preprint arXiv:1902.09413 (2019).
+* Deng, Yuan, et al. ["A data-driven metric of incentive compatibility."](https://dl.acm.org/doi/pdf/10.1145/3366423.3380249) *Proceedings of The Web Conference 2020*. 2020.
+* Balcan, Maria-Florina, Tuomas Sandholm, and Ellen Vitercik. ["Estimating approximate incentive compatibility."](https://arxiv.org/pdf/1902.09413.pdf) *arXiv preprint arXiv:1902.09413* (2019).
 
 ### robustness
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
@@ -71,18 +73,21 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Learning Methods
 
 ### DNN
-* Dütting, Paul, et al. ["Optimal auctions through deep learning."](http://proceedings.mlr.press/v97/duetting19a/duetting19a.pdf) International Conference on Machine Learning. PMLR, 2019.
+* **Dütting, Paul, et al. ["Optimal auctions through deep learning."](http://proceedings.mlr.press/v97/duetting19a/duetting19a.pdf) International Conference on Machine Learning. PMLR, 2019.**
 * Feng, Zhe, Harikrishna Narasimhan, and David C. Parkes. ["Deep learning for revenue-optimal auctions with budgets."](http://ifaamas.org/Proceedings/aamas2018/pdfs/p354.pdf) Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems. 2018.
+* Rahme, Jad, Samy Jelassi, and S. Matthew Weinberg. ["Auction learning as a two-player game."](https://arxiv.org/abs/2006.05684) arXiv preprint arXiv:2006.05684 (2020).
+* Weissteiner, Jakob, and Sven Seuken. ["Deep Learning—Powered Iterative Combinatorial Auctions."](Weissteiner, Jakob, and Sven Seuken. "Deep Learning—Powered Iterative Combinatorial Auctions." *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.) *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.
 
 ### RL
 
 ### MLP for single output
-* Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/pdf/1907.05181.pdf) arXiv preprint arXiv:1907.05181 (2019).
+* **Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/pdf/1907.05181.pdf) arXiv preprint arXiv:1907.05181 (2019).**
 
 ### specialized net
-* Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).
+* **Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).**
 
 ### SVM
+* **Dütting, Paul, et al. ["Payment rules through discriminant-based classifiers."](https://dl.acm.org/doi/pdf/10.1145/2559049) (2015): 1-41.**
 
 ## Industrial Technology
 
@@ -96,7 +101,6 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Waiting for Classification
 * Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/abs/1907.05181) arXiv preprint arXiv:1907.05181 (2019).
 * Sakurai, Yuko, et al. ["Deep false-name-proof auction mechanisms."](https://doi.org/10.1007/978-3-030-33792-6_45) International Conference on Principles and Practice of Multi-Agent Systems. Springer, Cham, 2019.
-* Rahme, Jad, Samy Jelassi, and S. Matthew Weinberg. ["Auction learning as a two-player game."](https://arxiv.org/abs/2006.05684) arXiv preprint arXiv:2006.05684 (2020).
 * Zhang, Hanrui, Yu Cheng, and Vincent Conitzer. ["Automated mechanism design for classification with partial verification."](https://ojs.aaai.org/index.php/AAAI/article/view/16725) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
 * Brero, Gianluca, et al. ["Reinforcement Learning of Sequential Price Mechanisms."](https://arxiv.org/abs/2010.01180) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
 * Rahme, Jad, et al. ["A permutation-equivariant neural network architecture for auction design."](https://arxiv.org/abs/2003.01497) arXiv preprint arXiv:2003.01497 (2020).
@@ -133,4 +137,4 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 
 
-    
+​    
