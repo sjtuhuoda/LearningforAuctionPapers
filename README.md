@@ -76,7 +76,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ### specialized net
 * Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).
 
-### ### SVM
+### SVM
 
 ## Industrial Technology
 
