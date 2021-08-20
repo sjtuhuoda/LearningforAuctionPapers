@@ -11,13 +11,15 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ## Classify
 
-### 技术向(DNN,RL,SVM,specialized net)
-### 理论向(sample,robustness,IC metric,)
+### 技术向(DNN,RL,SVM,specialized net) 先验知识
+### 理论向(sample,robustness,IC metric)
 ### 应用向(广告场景,网络场景)
 
 
 ## General Talking
 
+* Mosavi, Amirhosein, et al. ["Comprehensive review of deep reinforcement learning methods and applications in economics."](https://www.mdpi.com/2227-7390/8/10/1640) Mathematics 8.10 (2020): 1640.
+* Charpentier, Arthur, Romuald Elie, and Carl Remlinger. ["Reinforcement learning in economics and finance."](https://link.springer.com/article/10.1007/s10614-021-10119-4) Computational Economics (2021): 1-38.
 
 ## Theory Research
 
@@ -74,6 +76,9 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ### RL
 
+### MLP for single output
+* Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/pdf/1907.05181.pdf) arXiv preprint arXiv:1907.05181 (2019).
+
 ### specialized net
 * Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).
 
@@ -124,9 +129,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## ???(useless and just for fun)
 * [Automated Mechanism Design](https://core.ac.uk/download/pdf/62911178.pdf) by Tuomas Sandholm
 * Heymann, Benjamin. ["How to bid in unified second-price auctions when requests are duplicated."](https://www.sciencedirect.com/science/article/pii/S0167637720300778) Operations Research Letters 48.4 (2020): 446-451.
-
-
-写一些summary到overleaf 
+* Dafoe, Allan, et al. ["Open problems in cooperative AI."](https://arxiv.org/pdf/2012.08630.pdf) arXiv preprint arXiv:2012.08630 (2020).
 
 
 
