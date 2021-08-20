@@ -8,6 +8,14 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * or email me
 * or report an issue here.
 
+
+## Classify
+
+### 技术向(DNN,RL,SVM,specialized net)
+### 理论向(sample,robustness,IC metric,)
+### 应用向(广告场景,网络场景)
+
+
 ## General Talking
 
 
@@ -45,17 +53,30 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * Dütting, Paul, Monika Henzinger, and Martin Starnberger. ["Auctions for heterogeneous items and budget limits."](https://dl.acm.org/doi/pdf/10.1145/2818351) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-17.
 * Dütting, Paul, Monika Henzinger, and Ingmar Weber. ["An expressive mechanism for auctions on the web."](https://dl.acm.org/doi/pdf/10.1145/2716312) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-34.
 
-## Learning Methods
 
-### Mechanism Design
-* Dütting, Paul, et al. ["Optimal auctions through deep learning."](http://proceedings.mlr.press/v97/duetting19a/duetting19a.pdf) International Conference on Machine Learning. PMLR, 2019.
-* Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).
-* Feng, Zhe, Harikrishna Narasimhan, and David C. Parkes. ["Deep learning for revenue-optimal auctions with budgets."](http://ifaamas.org/Proceedings/aamas2018/pdfs/p354.pdf) Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems. 2018.
+## Learning Theory
 
-### Bidding Strategy (Adversarial Network)
+### IC metirc
+
+### robustness
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
 * Nedelec, Thomas, et al. ["Adversarial learning for revenue-maximizing auctions."](https://arxiv.org/pdf/1909.06806.pdf) arXiv preprint arXiv:199.06806 (2019).
 
+### sample
+
+
+## Learning Methods
+
+### DNN
+* Dütting, Paul, et al. ["Optimal auctions through deep learning."](http://proceedings.mlr.press/v97/duetting19a/duetting19a.pdf) International Conference on Machine Learning. PMLR, 2019.
+* Feng, Zhe, Harikrishna Narasimhan, and David C. Parkes. ["Deep learning for revenue-optimal auctions with budgets."](http://ifaamas.org/Proceedings/aamas2018/pdfs/p354.pdf) Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems. 2018.
+
+### RL
+
+### specialized net
+* Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).
+
+### ### SVM
 
 ## Industrial Technology
 
@@ -102,3 +123,10 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## ???(useless and just for fun)
 * [Automated Mechanism Design](https://core.ac.uk/download/pdf/62911178.pdf) by Tuomas Sandholm
 * Heymann, Benjamin. ["How to bid in unified second-price auctions when requests are duplicated."](https://www.sciencedirect.com/science/article/pii/S0167637720300778) Operations Research Letters 48.4 (2020): 446-451.
+
+
+写一些summary到overleaf 
+
+
+
+    
