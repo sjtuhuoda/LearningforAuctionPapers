@@ -57,6 +57,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Learning Theory
 
 ### IC metirc
+* Balcan, Maria-Florina, Tuomas Sandholm, and Ellen Vitercik. ["Estimating approximate incentive compatibility."](https://arxiv.org/pdf/1902.09413.pdf) arXiv preprint arXiv:1902.09413 (2019).
 
 ### robustness
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
