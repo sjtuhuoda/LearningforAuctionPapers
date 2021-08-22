@@ -1,12 +1,15 @@
-.# Paper Collection of Real-Time Bidding
+.# Paper Collection of Auction Learning Theory
 
 This is a collection of research and review papers of auction mechanism design through data-driven methods. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me.
 
 **You are more than welcome to update this list!** <br>
-If you find a paper about RTB techniques or review which is not listed here, please
+If you find a paper about auction learning theory or review which is not listed here, please
 * fork this repository, add it and merge back;
 * or email me
 * or report an issue here.
+
+
+We are updating the list now :-)
 
 
 ## Classify
@@ -33,11 +36,10 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * Roberts, Kevin. ["The characterization of implementable choice rules."]() Aggregation and revelation of preferences 12.2 (1979): 321-348.
 * Daskalakis, Constantinos, Alan Deckelbaum, and Christos Tzamos. ["Mechanism design via optimal transport."](https://dl.acm.org/doi/abs/10.1145/2482540.2482593) Proceedings of the fourteenth ACM conference on Electronic commerce. 2013.
 
-## Automated Mechanism Design without Learning
+## Mechanism Design without Learning
 
 ### Single Item Auction
 * Golrezaei, Negin, et al. ["Boosted second price auctions: Revenue optimization for heterogeneous bidders."](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3352923_code2336200.pdf?abstractid=3016465&mirid=1&type=2) Available at SSRN 3016465 (2017).
-* Cai, Yang, Constantinos Daskalakis, and S. Matthew Weinberg. ["An algorithmic characterization of multi-dimensional mechanisms."](https://dl.acm.org/doi/abs/10.1145/2213977.2214021) Proceedings of the forty-fourth annual ACM symposium on Theory of computing. 2012.
 
 ### Auction with Budget
 * Che, Yeon-Koo, and Ian Gale. ["Standard auctions with financially constrained bidders."](https://academic.oup.com/restud/article-abstract/65/1/1/1589887) The Review of Economic Studies 65.1 (1998): 1-21.
@@ -54,6 +56,16 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * Dobzinski, Shahar, Ron Lavi, and Noam Nisan. ["Multi-unit auctions with budget limits."](https://www.sciencedirect.com/science/article/pii/S089982561100131X) Games and Economic Behavior 74.2 (2012): 486-503.
 * Dütting, Paul, Monika Henzinger, and Martin Starnberger. ["Auctions for heterogeneous items and budget limits."](https://dl.acm.org/doi/pdf/10.1145/2818351) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-17.
 * Dütting, Paul, Monika Henzinger, and Ingmar Weber. ["An expressive mechanism for auctions on the web."](https://dl.acm.org/doi/pdf/10.1145/2716312) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-34.
+
+### Automated Mechanism Design with LP/CSP and Its Computational Complexity
+* Sandholm, Tuomas. ["Automated mechanism design: A new application area for search algorithms."](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2) International Conference on Principles and Practice of Constraint Programming. Springer, Berlin, Heidelberg, 2003.
+* Conitzer, Vincent, and Tuomas Sandholm. ["Self-interested automated mechanism design and implications for optimal combinatorial auctions."](https://dl.acm.org/doi/abs/10.1145/988772.988793) Proceedings of the 5th ACM Conference on Electronic Commerce. 2004.
+* Conitzer, Vincent, and Tuomas Sandholm. ["An algorithm for automatically designing deterministic mechanisms without payments."](https://ieeexplore.ieee.org/abstract/document/1373471) Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems, 2004. AAMAS 2004.. IEEE, 2004.
+* Conitzer, Vincent, and Tuomas Sandholm. ["Automated mechanism design: Complexity results stemming from the single-agent setting."](https://dl.acm.org/doi/abs/10.1145/948005.948008) Proceedings of the 5th international conference on Electronic commerce. 2003.
+* Conitzer, Vincent, and Tuomas Sandholm. ["Applications of automated mechanism design."](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=Applications+of+automated+mechanism+design.&btnG=) (2003).
+* Conitzer, Vincent, and Tuomas W. Sandholm. ["Automated mechanism design with a structured outcome space."](https://kilthub.cmu.edu/articles/journal_contribution/Automated_Mechanism_Design_with_a_Structured_Outcome_Space/6603713) (2003).
+* Conitzer, Vincent, and Tuomas Sandholm. ["Complexity of mechanism design."](https://arxiv.org/pdf/cs/0205075.pdf) arXiv preprint cs/0205075 (2002).
+* Cai, Yang, Constantinos Daskalakis, and S. Matthew Weinberg. ["An algorithmic characterization of multi-dimensional mechanisms."](https://dl.acm.org/doi/abs/10.1145/2213977.2214021) Proceedings of the forty-fourth annual ACM symposium on Theory of computing. 2012.
 
 
 ## Learning Theory
@@ -117,13 +129,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021.
 
 
-* Sandholm, Tuomas. ["Automated mechanism design: A new application area for search algorithms."](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2) International Conference on Principles and Practice of Constraint Programming. Springer, Berlin, Heidelberg, 2003.
-* Conitzer, Vincent, and Tuomas Sandholm. ["Self-interested automated mechanism design and implications for optimal combinatorial auctions."](https://dl.acm.org/doi/abs/10.1145/988772.988793) Proceedings of the 5th ACM Conference on Electronic Commerce. 2004.
-* Conitzer, Vincent, and Tuomas Sandholm. ["An algorithm for automatically designing deterministic mechanisms without payments."](https://ieeexplore.ieee.org/abstract/document/1373471) Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems, 2004. AAMAS 2004.. IEEE, 2004.
-* Conitzer, Vincent, and Tuomas Sandholm. ["Automated mechanism design: Complexity results stemming from the single-agent setting."](https://dl.acm.org/doi/abs/10.1145/948005.948008) Proceedings of the 5th international conference on Electronic commerce. 2003.
-* Conitzer, Vincent, and Tuomas Sandholm. ["Applications of automated mechanism design."](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=Applications+of+automated+mechanism+design.&btnG=) (2003).
-* Conitzer, Vincent, and Tuomas W. Sandholm. ["Automated mechanism design with a structured outcome space."](https://kilthub.cmu.edu/articles/journal_contribution/Automated_Mechanism_Design_with_a_Structured_Outcome_Space/6603713) (2003).
-* Conitzer, Vincent, and Tuomas Sandholm. ["Complexity of mechanism design."](https://arxiv.org/pdf/cs/0205075.pdf) arXiv preprint cs/0205075 (2002).
+
 * Likhodedov, Anton, and Tuomas Sandholm. ["Approximating revenue-maximizing combinatorial auctions."](https://www.aaai.org/Papers/AAAI/2005/AAAI05-043.pdf) AAAI. Vol. 5. 2005.
 * Likhodedov, Anton, and Tuomas Sandholm. ["Methods for boosting revenue in combinatorial auctions."](https://www.aaai.org/Papers/AAAI/2004/AAAI04-037.pdf) AAAI. 2004.
 * Sandholm, Tuomas, and Andrew Gilpin. ["Sequences of take-it-or-leave-it offers: Near-optimal auctions without full valuation revelation."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_5) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
