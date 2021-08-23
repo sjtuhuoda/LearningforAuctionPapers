@@ -149,6 +149,26 @@ Typically modeled as LP or search problem with constraints here.
 * Sandholm, Tuomas, and Andrew Gilpin. ["Sequences of take-it-or-leave-it offers: Near-optimal auctions without full valuation revelation."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_5) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
 * Likhodedov, Anton, and Tuomas Sandholm. 【"Mechanism for optimally trading off revenue and efficiency in multi-unit auctions."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_6) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
 
+Citation from paper [Automated mechanism design: A new application area for search algorithms](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2)
+
+
+* Hajiaghayi, Mohammad Taghi, Robert Kleinberg, and Tuomas Sandholm. ["Automated online mechanism design and prophet inequalities."](https://www.aaai.org/Papers/AAAI/2007/AAAI07-009.pdf) AAAI. Vol. 7. 2007.
+* Zohar, Aviv, and Jeffrey S. Rosenschein. ["Robust mechanisms for information elicitation."](https://dl.acm.org/doi/abs/10.1145/1160633.1160849) Proceedings of the fifth international joint conference on Autonomous agents and multiagent systems. 2006.
+* Viqueira, Enrique Areyan, et al. ["Empirical mechanism design: Designing mechanisms from data."](http://proceedings.mlr.press/v115/viqueira20a.html) Uncertainty in Artificial Intelligence. PMLR, 2020.
+* Kroer, Christian, and Tuomas Sandholm. ["Computational Bundling for Auctions."](http://www.cs.cmu.edu/~sandholm/www/bundling_tech_report.pdf) AAMAS. 2015.
+* Balcan, Maria-Florina, Tuomas Sandholm, and Ellen Vitercik. ["Sample complexity of multi-item profit maximization."](https://www.cs.cmu.edu/afs/cs/Web/People/sandholm/sampleComplexityPM.AGTAndDataScienceWS17.pdf) arXiv preprint arXiv:1705.00243 3 (2017).
+* Ochal, Mateusz, et al. ["Online Mechanism Design using Reinforcement Learning for Cloud Resource Allocation."](https://nsrg.cse.psu.edu/files/2018/06/mechanism-design.long-2ek3oia.pdf)
+* Balcan, Maria-Florina, Siddharth Prasad, and Tuomas Sandholm. ["Learning Within an Instance for Designing High-Revenue Combinatorial Auctions."](https://www.ijcai.org/proceedings/2021/0005.pdf)
+
+Citation from paper [Complexity of Mechanism design](https://www.cs.cmu.edu/afs/cs/Web/People/sandholm/complexity_of_mechanism_design.uai02.pdf)
+
+
+* Procaccia, Ariel D., Aviv Zohar, and Jeffrey S. Rosenschein. ["Automated design of voting rules by learning from examples."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.4887&rep=rep1&type=pdf) Proceedings of the 1st International Workshop on Computational Social Choice (COMSOC). 2006.
+* Procaccia, Ariel D., Aviv Zohar, and Jeffrey S. Rosenschein. ["Automated design of scoring rules by learning from examples."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.6592&rep=rep1&type=pdf) Proceedings of the 7th international joint conference on Autonomous agents and multiagent systems-Volume 2. 2008.
+* Albert, Michael, Vincent Conitzer, and Peter Stone. ["Automated design of robust mechanisms."](https://ojs.aaai.org/index.php/AAAI/article/view/10574) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 31. No. 1. 2017
+* Golowich, Noah, Harikrishna Narasimhan, and David C. Parkes. ["Deep Learning for Multi-Facility Location Mechanism Design."](https://econcs.seas.harvard.edu/files/econcs/files/golowich_ijcai18.pdf) IJCAI. 2018.
+
+
 
 ## ???(useless and just for fun)
 * [Automated Mechanism Design](https://core.ac.uk/download/pdf/62911178.pdf) by Tuomas Sandholm
