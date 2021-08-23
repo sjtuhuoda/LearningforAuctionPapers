@@ -58,15 +58,26 @@ We are updating the list now :-)
 * Dütting, Paul, Monika Henzinger, and Martin Starnberger. ["Auctions for heterogeneous items and budget limits."](https://dl.acm.org/doi/pdf/10.1145/2818351) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-17.
 * Dütting, Paul, Monika Henzinger, and Ingmar Weber. ["An expressive mechanism for auctions on the web."](https://dl.acm.org/doi/pdf/10.1145/2716312) ACM Transactions on Economics and Computation (TEAC) 4.1 (2015): 1-34.
 
-### Automated Mechanism Design with LP/CSP and Its Computational Complexity
-* Sandholm, Tuomas. ["Automated mechanism design: A new application area for search algorithms."](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2) International Conference on Principles and Practice of Constraint Programming. Springer, Berlin, Heidelberg, 2003.
-* Conitzer, Vincent, and Tuomas Sandholm. ["Self-interested automated mechanism design and implications for optimal combinatorial auctions."](https://dl.acm.org/doi/abs/10.1145/988772.988793) Proceedings of the 5th ACM Conference on Electronic Commerce. 2004.
-* Conitzer, Vincent, and Tuomas Sandholm. ["An algorithm for automatically designing deterministic mechanisms without payments."](https://ieeexplore.ieee.org/abstract/document/1373471) Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems, 2004. AAMAS 2004.. IEEE, 2004.
+### Automated Mechanism Design (AMD)
+#### Modeling and Computational Complexity Analysis
+Typically modeled as LP or search problem with constraints here.
+
+
 * Conitzer, Vincent, and Tuomas Sandholm. ["Automated mechanism design: Complexity results stemming from the single-agent setting."](https://dl.acm.org/doi/abs/10.1145/948005.948008) Proceedings of the 5th international conference on Electronic commerce. 2003.
-* Conitzer, Vincent, and Tuomas Sandholm. ["Applications of automated mechanism design."](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=Applications+of+automated+mechanism+design.&btnG=) (2003).
-* Conitzer, Vincent, and Tuomas W. Sandholm. ["Automated mechanism design with a structured outcome space."](https://kilthub.cmu.edu/articles/journal_contribution/Automated_Mechanism_Design_with_a_Structured_Outcome_Space/6603713) (2003).
 * Conitzer, Vincent, and Tuomas Sandholm. ["Complexity of mechanism design."](https://arxiv.org/pdf/cs/0205075.pdf) arXiv preprint cs/0205075 (2002).
 * Cai, Yang, Constantinos Daskalakis, and S. Matthew Weinberg. ["An algorithmic characterization of multi-dimensional mechanisms."](https://dl.acm.org/doi/abs/10.1145/2213977.2214021) Proceedings of the forty-fourth annual ACM symposium on Theory of computing. 2012.
+* Conitzer, Vincent, and Tuomas Sandholm. ["Automated mechanism design: Complexity results stemming from the single-agent setting."](https://dl.acm.org/doi/abs/10.1145/948005.948008) Proceedings of the 5th international conference on Electronic commerce. 2003.
+* Conitzer, Vincent, and Tuomas Sandholm. ["Self-interested automated mechanism design and implications for optimal combinatorial auctions."](https://dl.acm.org/doi/abs/10.1145/988772.988793) Proceedings of the 5th ACM Conference on Electronic Commerce. 2004.
+* Conitzer, Vincent, and Tuomas Sandholm. ["Applications of automated mechanism design."](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=Applications+of+automated+mechanism+design.&btnG=) (2003).
+* Conitzer, Vincent, and Tuomas W. Sandholm. ["Automated mechanism design with a structured outcome space."](https://kilthub.cmu.edu/articles/journal_contribution/Automated_Mechanism_Design_with_a_Structured_Outcome_Space/6603713) (2003).
+
+#### Solve Search Problem with Constraints through Traditional Methods
+* Conitzer, Vincent, and Tuomas Sandholm. ["An algorithm for automatically designing deterministic mechanisms without payments."](https://ieeexplore.ieee.org/abstract/document/1373471) Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems, 2004. AAMAS 2004.. IEEE, 2004.
+* Sandholm, Tuomas. ["Automated mechanism design: A new application area for search algorithms."](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2) International Conference on Principles and Practice of Constraint Programming. Springer, Berlin, Heidelberg, 2003.
+
+#### Solve Search Problem with Constraints through Learning Methods and Its Sample Complexity
+
+
 
 
 ## Learning Theory
