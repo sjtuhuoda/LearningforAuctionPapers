@@ -23,6 +23,7 @@ We are updating the list now :-)
 
 * Mosavi, Amirhosein, et al. ["Comprehensive review of deep reinforcement learning methods and applications in economics."](https://www.mdpi.com/2227-7390/8/10/1640) Mathematics 8.10 (2020): 1640.
 * Charpentier, Arthur, Romuald Elie, and Carl Remlinger. ["Reinforcement learning in economics and finance."](https://link.springer.com/article/10.1007/s10614-021-10119-4) Computational Economics (2021): 1-38.
+*  Bichler, Martin, et al. ["Learning equilibria in symmetric auction games using artificial neural networks."](http://dss.in.tum.de/files/bichler-research/2021_Nature_Bichler_Equilibrium_Learning.pdf) Nature Machine Intelligence (2021): 1-9.
 
 ## Theory Research
 
@@ -73,7 +74,7 @@ We are updating the list now :-)
 ### IC metirc
 * Balcan, Maria-Florina, Tuomas Sandholm, and Ellen Vitercik. ["Estimating approximate incentive compatibility."](https://arxiv.org/pdf/1902.09413.pdf) arXiv preprint arXiv:1902.09413 (2019).
 * Deng, Yuan, et al. ["A data-driven metric of incentive compatibility."](https://dl.acm.org/doi/pdf/10.1145/3366423.3380249) *Proceedings of The Web Conference 2020*. 2020.
-* Balcan, Maria-Florina, Tuomas Sandholm, and Ellen Vitercik. ["Estimating approximate incentive compatibility."](https://arxiv.org/pdf/1902.09413.pdf) *arXiv preprint arXiv:1902.09413* (2019).
+* Curry, Michael, et al. ["Certifying Strategyproof Auction Networks."](https://proceedings.neurips.cc/paper/2020/file/3465ab6e0c21086020e382f09a482ced-Paper.pdf) *Advances in Neural Information Processing Systems* 33 (2020).
 
 ### robustness
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
@@ -89,13 +90,15 @@ We are updating the list now :-)
 * Feng, Zhe, Harikrishna Narasimhan, and David C. Parkes. ["Deep learning for revenue-optimal auctions with budgets."](http://ifaamas.org/Proceedings/aamas2018/pdfs/p354.pdf) Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems. 2018.
 * Rahme, Jad, Samy Jelassi, and S. Matthew Weinberg. ["Auction learning as a two-player game."](https://arxiv.org/abs/2006.05684) arXiv preprint arXiv:2006.05684 (2020).
 * Weissteiner, Jakob, and Sven Seuken. ["Deep Learning—Powered Iterative Combinatorial Auctions."](Weissteiner, Jakob, and Sven Seuken. "Deep Learning—Powered Iterative Combinatorial Auctions." *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.) *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.
+* Rahme, Jad, et al. ["A permutation-equivariant neural network architecture for auction design."](https://www.aaai.org/AAAI21Papers/AAAI-8437.RahmeJ.pdf) *arXiv preprint arXiv:2003.01497* (2020).
 
 ### RL
 
-### MLP for single output
+###  Hybrid auction design
 * **Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/pdf/1907.05181.pdf) arXiv preprint arXiv:1907.05181 (2019).**
+* Weissteiner, Jakob, et al. ["Fourier analysis-based iterative combinatorial auctions."](https://arxiv.org/pdf/2009.10749.pdf) *arXiv preprint arXiv:2009.10749* (2020).
 
-### specialized net
+### Specialized net
 * **Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).**
 
 ### SVM
