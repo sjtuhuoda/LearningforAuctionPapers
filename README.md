@@ -168,6 +168,13 @@ Citation from paper [Complexity of Mechanism design](https://www.cs.cmu.edu/afs/
 * Procaccia, Ariel D., Aviv Zohar, and Jeffrey S. Rosenschein. ["Automated design of scoring rules by learning from examples."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.6592&rep=rep1&type=pdf) Proceedings of the 7th international joint conference on Autonomous agents and multiagent systems-Volume 2. 2008.
 * Albert, Michael, Vincent Conitzer, and Peter Stone. ["Automated design of robust mechanisms."](https://ojs.aaai.org/index.php/AAAI/article/view/10574) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 31. No. 1. 2017
 * Golowich, Noah, Harikrishna Narasimhan, and David C. Parkes. ["Deep Learning for Multi-Facility Location Mechanism Design."](https://econcs.seas.harvard.edu/files/econcs/files/golowich_ijcai18.pdf) IJCAI. 2018.
+* Berg, Kimmo, and Harri Ehtamo. ["Learning in nonlinear pricing with unknown utility functions."] (https://link.springer.com/content/pdf/10.1007/s10479-009-0640-2.pdf) Annals of Operations Research 172.1 (2009): 375. 
+* Berg, Kimmo, and Harri Ehtamo. ["Continuous learning methods in two-buyer pricing problem."](https://link.springer.com/article/10.1007/s00186-012-0385-6) Mathematical Methods of Operations Research 75.3 (2012): 287-304.
+* Balcan, Maria-Florina, Siddharth Prasad, and Tuomas Sandholm. ["Efficient Algorithms for Learning Revenue-Maximizing Two-Part Tariffs."](http://www.cs.cmu.edu/~ninamf/papers/tariffs.pdf) IJCAI. 2020.
+* Brero, Gianluca, et al. ["Reinforcement Learning of Simple Indirect Mechanisms."](https://arxiv.org/abs/2010.01180) arXiv preprint arXiv:2010.01180 (2020).
+* Dütting, Paul, et al. ["Machine learning for optimal economic design."](https://link.springer.com/chapter/10.1007/978-3-030-18050-8_70) The Future of Economic Design. Springer, Cham, 2019. 495-515.
+* Nedelec, Thomas, et al. ["Learning in repeated auctions."](https://arxiv.org/abs/2011.09365) arXiv preprint arXiv:2011.09365 (2020).
+Berg, Kimmo. ["A learning approach for nonlinear pricing problem."](https://aaltodoc.aalto.fi/handle/123456789/4907) (2010).
 
 
 
