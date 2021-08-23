@@ -175,6 +175,10 @@ Citation from paper [Complexity of Mechanism design](https://www.cs.cmu.edu/afs/
 * Dütting, Paul, et al. ["Machine learning for optimal economic design."](https://link.springer.com/chapter/10.1007/978-3-030-18050-8_70) The Future of Economic Design. Springer, Cham, 2019. 495-515.
 * Nedelec, Thomas, et al. ["Learning in repeated auctions."](https://arxiv.org/abs/2011.09365) arXiv preprint arXiv:2011.09365 (2020).
 Berg, Kimmo. ["A learning approach for nonlinear pricing problem."](https://aaltodoc.aalto.fi/handle/123456789/4907) (2010).
+* Mguni, David, and Marcin Tomczak. ["Efficient Reinforcement Dynamic Mechanism Design."](http://www.agent-games-2019.preflib.org/wp-content/uploads/2019/05/GAIW2019_paper_7.pdf)
+* Sandholm, Tuomas, Vincent Conitzer, and Craig Boutilier. ["Automated Design of Multistage Mechanisms."](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-242.pdf) IJCAI. Vol. 7. 2007.
+* Wang, Guanhua, et al. ["Mechanism Design for Public Projects via Neural Networks."](https://arxiv.org/abs/2002.11382) arXiv preprint arXiv:2002.11382 (2020).
+* Dütting, Paul, et al. ["Payment Rules for Combinatorial Auctions via Structural Support Vector Machines."](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.366.2851&rep=rep1&type=pdf) (2011).
 
 
 
