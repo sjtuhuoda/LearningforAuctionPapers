@@ -1,4 +1,4 @@
-.# Paper Collection of Auction Learning Theory
+# Paper Collection of Auction Learning Theory
 
 This is a collection of research and review papers of auction mechanism design through data-driven methods. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me.
 
