@@ -141,6 +141,7 @@ Typically modeled as LP or search problem with constraints here.
 * Qian, Jun, et al. ["Optimal Auction for Resource Allocation in Wireless Virtualization: A Deep Learning Approach."](10.1109/ICPADS47876.2019.00082) 2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2019.
 * Zuzic, Goran, et al. ["Learning Robust Algorithms for Online Allocation Problems Using Adversarial Training."](https://arxiv.org/pdf/2010.08418.pdf) arXiv preprint arXiv:2010.08418 (2020).
 * Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021.
+* Huang, Zhiyi, Yishay Mansour, and Tim Roughgarden. ["Making the most of your samples."](https://epubs.siam.org/doi/abs/10.1137/16M1065719) SIAM Journal on Computing 47.3 (2018): 651-674.
 
 
 
