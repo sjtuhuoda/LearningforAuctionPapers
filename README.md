@@ -146,6 +146,7 @@ Typically modeled as LP or search problem with constraints here.
 * Qian, Jun, et al. ["Optimal Auction for Resource Allocation in Wireless Virtualization: A Deep Learning Approach."](10.1109/ICPADS47876.2019.00082) 2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2019.
 * Zuzic, Goran, et al. ["Learning Robust Algorithms for Online Allocation Problems Using Adversarial Training."](https://arxiv.org/pdf/2010.08418.pdf) arXiv preprint arXiv:2010.08418 (2020).
 * Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021.
+* Huang, Zhiyi, Yishay Mansour, and Tim Roughgarden. ["Making the most of your samples."](https://epubs.siam.org/doi/abs/10.1137/16M1065719) SIAM Journal on Computing 47.3 (2018): 651-674.
 
 
 
@@ -153,6 +154,37 @@ Typically modeled as LP or search problem with constraints here.
 * Likhodedov, Anton, and Tuomas Sandholm. ["Methods for boosting revenue in combinatorial auctions."](https://www.aaai.org/Papers/AAAI/2004/AAAI04-037.pdf) AAAI. 2004.
 * Sandholm, Tuomas, and Andrew Gilpin. ["Sequences of take-it-or-leave-it offers: Near-optimal auctions without full valuation revelation."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_5) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
 * Likhodedov, Anton, and Tuomas Sandholm. 【"Mechanism for optimally trading off revenue and efficiency in multi-unit auctions."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_6) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
+
+Citation from paper [Automated mechanism design: A new application area for search algorithms](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2)
+
+
+* Hajiaghayi, Mohammad Taghi, Robert Kleinberg, and Tuomas Sandholm. ["Automated online mechanism design and prophet inequalities."](https://www.aaai.org/Papers/AAAI/2007/AAAI07-009.pdf) AAAI. Vol. 7. 2007.
+* Zohar, Aviv, and Jeffrey S. Rosenschein. ["Robust mechanisms for information elicitation."](https://dl.acm.org/doi/abs/10.1145/1160633.1160849) Proceedings of the fifth international joint conference on Autonomous agents and multiagent systems. 2006.
+* Viqueira, Enrique Areyan, et al. ["Empirical mechanism design: Designing mechanisms from data."](http://proceedings.mlr.press/v115/viqueira20a.html) Uncertainty in Artificial Intelligence. PMLR, 2020.
+* Kroer, Christian, and Tuomas Sandholm. ["Computational Bundling for Auctions."](http://www.cs.cmu.edu/~sandholm/www/bundling_tech_report.pdf) AAMAS. 2015.
+* Balcan, Maria-Florina, Tuomas Sandholm, and Ellen Vitercik. ["Sample complexity of multi-item profit maximization."](https://www.cs.cmu.edu/afs/cs/Web/People/sandholm/sampleComplexityPM.AGTAndDataScienceWS17.pdf) arXiv preprint arXiv:1705.00243 3 (2017).
+* Ochal, Mateusz, et al. ["Online Mechanism Design using Reinforcement Learning for Cloud Resource Allocation."](https://nsrg.cse.psu.edu/files/2018/06/mechanism-design.long-2ek3oia.pdf)
+* Balcan, Maria-Florina, Siddharth Prasad, and Tuomas Sandholm. ["Learning Within an Instance for Designing High-Revenue Combinatorial Auctions."](https://www.ijcai.org/proceedings/2021/0005.pdf)
+
+Citation from paper [Complexity of Mechanism design](https://www.cs.cmu.edu/afs/cs/Web/People/sandholm/complexity_of_mechanism_design.uai02.pdf)
+
+
+* Procaccia, Ariel D., Aviv Zohar, and Jeffrey S. Rosenschein. ["Automated design of voting rules by learning from examples."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.4887&rep=rep1&type=pdf) Proceedings of the 1st International Workshop on Computational Social Choice (COMSOC). 2006.
+* Procaccia, Ariel D., Aviv Zohar, and Jeffrey S. Rosenschein. ["Automated design of scoring rules by learning from examples."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.6592&rep=rep1&type=pdf) Proceedings of the 7th international joint conference on Autonomous agents and multiagent systems-Volume 2. 2008.
+* Albert, Michael, Vincent Conitzer, and Peter Stone. ["Automated design of robust mechanisms."](https://ojs.aaai.org/index.php/AAAI/article/view/10574) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 31. No. 1. 2017
+* Golowich, Noah, Harikrishna Narasimhan, and David C. Parkes. ["Deep Learning for Multi-Facility Location Mechanism Design."](https://econcs.seas.harvard.edu/files/econcs/files/golowich_ijcai18.pdf) IJCAI. 2018.
+* Berg, Kimmo, and Harri Ehtamo. ["Learning in nonlinear pricing with unknown utility functions."] (https://link.springer.com/content/pdf/10.1007/s10479-009-0640-2.pdf) Annals of Operations Research 172.1 (2009): 375. 
+* Berg, Kimmo, and Harri Ehtamo. ["Continuous learning methods in two-buyer pricing problem."](https://link.springer.com/article/10.1007/s00186-012-0385-6) Mathematical Methods of Operations Research 75.3 (2012): 287-304.
+* Balcan, Maria-Florina, Siddharth Prasad, and Tuomas Sandholm. ["Efficient Algorithms for Learning Revenue-Maximizing Two-Part Tariffs."](http://www.cs.cmu.edu/~ninamf/papers/tariffs.pdf) IJCAI. 2020.
+* Brero, Gianluca, et al. ["Reinforcement Learning of Simple Indirect Mechanisms."](https://arxiv.org/abs/2010.01180) arXiv preprint arXiv:2010.01180 (2020).
+* Dütting, Paul, et al. ["Machine learning for optimal economic design."](https://link.springer.com/chapter/10.1007/978-3-030-18050-8_70) The Future of Economic Design. Springer, Cham, 2019. 495-515.
+* Nedelec, Thomas, et al. ["Learning in repeated auctions."](https://arxiv.org/abs/2011.09365) arXiv preprint arXiv:2011.09365 (2020).
+Berg, Kimmo. ["A learning approach for nonlinear pricing problem."](https://aaltodoc.aalto.fi/handle/123456789/4907) (2010).
+* Mguni, David, and Marcin Tomczak. ["Efficient Reinforcement Dynamic Mechanism Design."](http://www.agent-games-2019.preflib.org/wp-content/uploads/2019/05/GAIW2019_paper_7.pdf)
+* Sandholm, Tuomas, Vincent Conitzer, and Craig Boutilier. ["Automated Design of Multistage Mechanisms."](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-242.pdf) IJCAI. Vol. 7. 2007.
+* Wang, Guanhua, et al. ["Mechanism Design for Public Projects via Neural Networks."](https://arxiv.org/abs/2002.11382) arXiv preprint arXiv:2002.11382 (2020).
+* Dütting, Paul, et al. ["Payment Rules for Combinatorial Auctions via Structural Support Vector Machines."](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.366.2851&rep=rep1&type=pdf) (2011).
+
 
 
 ## ???(useless and just for fun)
