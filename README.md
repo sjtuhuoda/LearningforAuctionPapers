@@ -66,7 +66,6 @@ Typically modeled as LP or search problem with constraints here.
 * Conitzer, Vincent, and Tuomas Sandholm. ["Automated mechanism design: Complexity results stemming from the single-agent setting."](https://dl.acm.org/doi/abs/10.1145/948005.948008) Proceedings of the 5th international conference on Electronic commerce. 2003.
 * Conitzer, Vincent, and Tuomas Sandholm. ["Complexity of mechanism design."](https://arxiv.org/pdf/cs/0205075.pdf) arXiv preprint cs/0205075 (2002).
 * Cai, Yang, Constantinos Daskalakis, and S. Matthew Weinberg. ["An algorithmic characterization of multi-dimensional mechanisms."](https://dl.acm.org/doi/abs/10.1145/2213977.2214021) Proceedings of the forty-fourth annual ACM symposium on Theory of computing. 2012.
-* Conitzer, Vincent, and Tuomas Sandholm. ["Automated mechanism design: Complexity results stemming from the single-agent setting."](https://dl.acm.org/doi/abs/10.1145/948005.948008) Proceedings of the 5th international conference on Electronic commerce. 2003.
 * Conitzer, Vincent, and Tuomas Sandholm. ["Self-interested automated mechanism design and implications for optimal combinatorial auctions."](https://dl.acm.org/doi/abs/10.1145/988772.988793) Proceedings of the 5th ACM Conference on Electronic Commerce. 2004.
 * Conitzer, Vincent, and Tuomas Sandholm. ["Applications of automated mechanism design."](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=Applications+of+automated+mechanism+design.&btnG=) (2003).
 * Conitzer, Vincent, and Tuomas W. Sandholm. ["Automated mechanism design with a structured outcome space."](https://kilthub.cmu.edu/articles/journal_contribution/Automated_Mechanism_Design_with_a_Structured_Outcome_Space/6603713) (2003).
@@ -87,11 +86,15 @@ Typically modeled as LP or search problem with constraints here.
 * Deng, Yuan, et al. ["A data-driven metric of incentive compatibility."](https://dl.acm.org/doi/pdf/10.1145/3366423.3380249) *Proceedings of The Web Conference 2020*. 2020.
 * Curry, Michael, et al. ["Certifying Strategyproof Auction Networks."](https://proceedings.neurips.cc/paper/2020/file/3465ab6e0c21086020e382f09a482ced-Paper.pdf) *Advances in Neural Information Processing Systems* 33 (2020).
 
-### robustness
+### Robustness
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
 * Nedelec, Thomas, et al. ["Adversarial learning for revenue-maximizing auctions."](https://arxiv.org/pdf/1909.06806.pdf) arXiv preprint arXiv:199.06806 (2019).
 
-### sample
+### Sample
+
+### BNE
+
+* Heidekrüger, Stefan, et al. ["Equilibrium Learning in Combinatorial Auctions: Computing Approximate Bayesian Nash Equilibria via Pseudogradient Dynamics." ](https://arxiv.org/pdf/2101.11946.pdf)*arXiv preprint arXiv:2101.11946* (2021).
 
 
 ## Learning Methods
@@ -99,6 +102,8 @@ Typically modeled as LP or search problem with constraints here.
 ### DNN
 * **Dütting, Paul, et al. ["Optimal auctions through deep learning."](http://proceedings.mlr.press/v97/duetting19a/duetting19a.pdf) International Conference on Machine Learning. PMLR, 2019.**
 * Feng, Zhe, Harikrishna Narasimhan, and David C. Parkes. ["Deep learning for revenue-optimal auctions with budgets."](http://ifaamas.org/Proceedings/aamas2018/pdfs/p354.pdf) Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems. 2018.
+* Kuo, Kevin, et al. ["ProportionNet: Balancing Fairness and Revenue for Auction Design with Deep Learning."](https://arxiv.org/pdf/2010.06398.pdf) *arXiv preprint arXiv:2010.06398* (2020).
+* Sakurai, Yuko, et al. ["Deep false-name-proof auction mechanisms." ](https://cs.adelaide.edu.au/users/mingyu/publication/prima19.pdf)*International Conference on Principles and Practice of Multi-Agent Systems*. Springer, Cham, 2019.
 * Rahme, Jad, Samy Jelassi, and S. Matthew Weinberg. ["Auction learning as a two-player game."](https://arxiv.org/abs/2006.05684) arXiv preprint arXiv:2006.05684 (2020).
 * Weissteiner, Jakob, and Sven Seuken. ["Deep Learning—Powered Iterative Combinatorial Auctions."](Weissteiner, Jakob, and Sven Seuken. "Deep Learning—Powered Iterative Combinatorial Auctions." *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.) *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.
 * Rahme, Jad, et al. ["A permutation-equivariant neural network architecture for auction design."](https://www.aaai.org/AAAI21Papers/AAAI-8437.RahmeJ.pdf) *arXiv preprint arXiv:2003.01497* (2020).
