@@ -12,18 +12,12 @@ If you find a paper about auction learning theory or review which is not listed 
 We are updating the list now :-)
 
 
-## Classify
-
-### 技术向(DNN,RL,SVM,specialized net) 先验知识
-### 理论向(sample,robustness,IC metric)
-### 应用向(广告场景,网络场景)
-
-
 ## General Talking
 
 * Mosavi, Amirhosein, et al. ["Comprehensive review of deep reinforcement learning methods and applications in economics."](https://www.mdpi.com/2227-7390/8/10/1640) Mathematics 8.10 (2020): 1640.
 * Charpentier, Arthur, Romuald Elie, and Carl Remlinger. ["Reinforcement learning in economics and finance."](https://link.springer.com/article/10.1007/s10614-021-10119-4) Computational Economics (2021): 1-38.
 *  Bichler, Martin, et al. ["Learning equilibria in symmetric auction games using artificial neural networks."](http://dss.in.tum.de/files/bichler-research/2021_Nature_Bichler_Equilibrium_Learning.pdf) Nature Machine Intelligence (2021): 1-9.
+*  Finocchiaro, Jessie, et al. ["Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness."](https://arxiv.org/pdf/2010.05434.pdf) *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*. 2021.
 
 ## Theory Research
 
@@ -110,6 +104,8 @@ Typically modeled as LP or search problem with constraints here.
 
 ### RL
 
+* Brero, Gianluca, et al. ["Reinforcement Learning of Sequential Price Mechanisms."](https://arxiv.org/pdf/2010.01180.pdf) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
+
 ###  Hybrid auction design
 * **Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/pdf/1907.05181.pdf) arXiv preprint arXiv:1907.05181 (2019).**
 * Weissteiner, Jakob, et al. ["Fourier analysis-based iterative combinatorial auctions."](https://arxiv.org/pdf/2009.10749.pdf) *arXiv preprint arXiv:2009.10749* (2020).
@@ -124,18 +120,15 @@ Typically modeled as LP or search problem with constraints here.
 
 ### Advertisement Auction
 * Shen, Weiran, et al. ["Reinforcement mechanism design: With applications to dynamic pricing in sponsored search auctions."](https://doi.org/10.1609/aaai.v34i02.5600) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 02. 2020.
+* Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021.
 
 ### Others
 * Luong, Nguyen Cong, et al. ["Optimal auction for edge computing resource management in mobile blockchain networks: A deep learning approach."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422743&tag=1) 2018 IEEE International Conference on Communications (ICC). IEEE, 2018.
 
 
 ## Waiting for Classification
-* Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/abs/1907.05181) arXiv preprint arXiv:1907.05181 (2019).
-* Sakurai, Yuko, et al. ["Deep false-name-proof auction mechanisms."](https://doi.org/10.1007/978-3-030-33792-6_45) International Conference on Principles and Practice of Multi-Agent Systems. Springer, Cham, 2019.
 * Zhang, Hanrui, Yu Cheng, and Vincent Conitzer. ["Automated mechanism design for classification with partial verification."](https://ojs.aaai.org/index.php/AAAI/article/view/16725) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
-* Brero, Gianluca, et al. ["Reinforcement Learning of Sequential Price Mechanisms."](https://arxiv.org/abs/2010.01180) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
 * Rahme, Jad, et al. ["A permutation-equivariant neural network architecture for auction design."](https://arxiv.org/abs/2003.01497) arXiv preprint arXiv:2003.01497 (2020).
-* Kuo, Kevin, et al. ["ProportionNet: Balancing Fairness and Revenue for Auction Design with Deep Learning."](https://arxiv.org/abs/2010.06398) arXiv preprint arXiv:2010.06398 (2020).
 * Zhao, Xiangyu, et al. ["Deep reinforcement learning for page-wise recommendations."](ttps://dl.acm.org/doi/abs/10.1145/3240323.3240374) Proceedings of the 12th ACM Conference on Recommender Systems. 2018.
 * Cai, Qingpeng, et al. ["Reinforcement mechanism design for fraudulent behaviour in e-commerce."](https://ojs.aaai.org/index.php/AAAI/article/view/11452) Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 * Zhao, Xiangyu, et al. ["Deep Reinforcement Learning for Whole-Chain Recommendations."](https://noteflow.oss-cn-beijing.aliyuncs.com/media/upload/JBWWZPYtcA.pdf) (2020).
@@ -145,7 +138,6 @@ Typically modeled as LP or search problem with constraints here.
 * Nedelec, Thomas, et al. ["Robust Stackelberg buyers in repeated auctions."](http://proceedings.mlr.press/v108/nedelec20a.html) International Conference on Artificial Intelligence and Statistics. PMLR, 2020.
 * Qian, Jun, et al. ["Optimal Auction for Resource Allocation in Wireless Virtualization: A Deep Learning Approach."](10.1109/ICPADS47876.2019.00082) 2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2019.
 * Zuzic, Goran, et al. ["Learning Robust Algorithms for Online Allocation Problems Using Adversarial Training."](https://arxiv.org/pdf/2010.08418.pdf) arXiv preprint arXiv:2010.08418 (2020).
-* Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021.
 * Huang, Zhiyi, Yishay Mansour, and Tim Roughgarden. ["Making the most of your samples."](https://epubs.siam.org/doi/abs/10.1137/16M1065719) SIAM Journal on Computing 47.3 (2018): 651-674.
 
 
