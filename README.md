@@ -154,6 +154,7 @@ Typically modeled as LP or search problem with constraints here.
 * Likhodedov, Anton, and Tuomas Sandholm. ["Methods for boosting revenue in combinatorial auctions."](https://www.aaai.org/Papers/AAAI/2004/AAAI04-037.pdf) AAAI. 2004.
 * Sandholm, Tuomas, and Andrew Gilpin. ["Sequences of take-it-or-leave-it offers: Near-optimal auctions without full valuation revelation."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_5) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
 * Likhodedov, Anton, and Tuomas Sandholm. 【"Mechanism for optimally trading off revenue and efficiency in multi-unit auctions."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_6) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
+* Elkind, Edith. ["Designing and learning optimal finite support auctions."](https://dl.acm.org/doi/abs/10.5555/1283383.1283462) Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. 2007.
 
 Citation from paper [Automated mechanism design: A new application area for search algorithms](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2)
 
@@ -179,13 +180,64 @@ Citation from paper [Complexity of Mechanism design](https://www.cs.cmu.edu/afs/
 * Brero, Gianluca, et al. ["Reinforcement Learning of Simple Indirect Mechanisms."](https://arxiv.org/abs/2010.01180) arXiv preprint arXiv:2010.01180 (2020).
 * Dütting, Paul, et al. ["Machine learning for optimal economic design."](https://link.springer.com/chapter/10.1007/978-3-030-18050-8_70) The Future of Economic Design. Springer, Cham, 2019. 495-515.
 * Nedelec, Thomas, et al. ["Learning in repeated auctions."](https://arxiv.org/abs/2011.09365) arXiv preprint arXiv:2011.09365 (2020).
-Berg, Kimmo. ["A learning approach for nonlinear pricing problem."](https://aaltodoc.aalto.fi/handle/123456789/4907) (2010).
+* Berg, Kimmo. ["A learning approach for nonlinear pricing problem."](https://aaltodoc.aalto.fi/handle/123456789/4907) (2010).
 * Mguni, David, and Marcin Tomczak. ["Efficient Reinforcement Dynamic Mechanism Design."](http://www.agent-games-2019.preflib.org/wp-content/uploads/2019/05/GAIW2019_paper_7.pdf)
 * Sandholm, Tuomas, Vincent Conitzer, and Craig Boutilier. ["Automated Design of Multistage Mechanisms."](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-242.pdf) IJCAI. Vol. 7. 2007.
 * Wang, Guanhua, et al. ["Mechanism Design for Public Projects via Neural Networks."](https://arxiv.org/abs/2002.11382) arXiv preprint arXiv:2002.11382 (2020).
 * Dütting, Paul, et al. ["Payment Rules for Combinatorial Auctions via Structural Support Vector Machines."](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.366.2851&rep=rep1&type=pdf) (2011).
 
 
+Citation from paper ["Designing and learning optimal finite support auctions."](https://dl.acm.org/doi/abs/10.5555/1283383.1283462)
+
+
+* Cole, Richard, and Tim Roughgarden. ["The sample complexity of revenue maximization."](https://dl.acm.org/doi/abs/10.1145/2591796.2591867) Proceedings of the forty-sixth annual ACM symposium on Theory of computing. 2014.
+* Morgenstern, Jamie, and Tim Roughgarden. ["The pseudo-dimension of near-optimal auctions."](https://arxiv.org/abs/1506.03684) arXiv preprint arXiv:1506.03684 (2015).
+* Morgenstern, Jamie, and Tim Roughgarden. ["Learning simple auctions."](http://proceedings.mlr.press/v49/morgenstern16.html) Conference on Learning Theory. PMLR, 2016.
+* Devanur, Nikhil R., Zhiyi Huang, and Christos-Alexandros Psomas. ["The sample complexity of auctions with side information."](https://dl.acm.org/doi/abs/10.1145/2897518.2897553) Proceedings of the forty-eighth annual ACM symposium on Theory of Computing. 2016.
+* Nazerzadeh, Hamid, Amin Saberi, and Rakesh Vohra. ["Dynamic cost-per-action mechanisms and applications to online advertising."](https://dl.acm.org/doi/abs/10.1145/1367497.1367522) Proceedings of the 17th international conference on World Wide Web. 2008.
+* Gonczarowski, Yannai A., and Noam Nisan. ["Efficient empirical revenue maximization in single-parameter auction environments."](https://dl.acm.org/doi/abs/10.1145/3055399.3055427) Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing. 2017.
+* Roughgarden, Tim, and Okke Schrijvers. ["Ironing in the dark."](https://dl.acm.org/doi/abs/10.1145/2940716.2940723) Proceedings of the 2016 ACM Conference on Economics and Computation. 2016.
+* Cai, Yang, and Constantinos Daskalakis. ["Learning multi-item auctions with (or without) samples."](https://ieeexplore.ieee.org/abstract/document/8104086) 2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS). IEEE, 2017.
+* Roughgarden, Tim, and Joshua R. Wang. ["Minimizing regret with multiple reserves."](https://dl.acm.org/doi/abs/10.1145/3355900) ACM Transactions on Economics and Computation (TEAC) 7.3 (2019): 1-18.
+* Balcan, Maria-Florina F., Tuomas Sandholm, and Ellen Vitercik. ["Sample complexity of automated mechanism design."](https://proceedings.neurips.cc/paper/2016/hash/98d6f58ab0dafbb86b083a001561bb34-Abstract.html) Advances in Neural Information Processing Systems. 2016.
+* Dudík, Miroslav, et al. ["Oracle-efficient online learning and auction design."](https://ieeexplore.ieee.org/abstract/document/8104087) 2017 ieee 58th annual symposium on foundations of computer science (focs). IEEE, 2017.
+* Gonczarowski, Yannai A., and S. Matthew Weinberg. ["The sample complexity of up-to-ε multi-dimensional revenue maximization."](https://dl.acm.org/doi/abs/10.1145/3439722) Journal of the ACM (JACM) 68.3 (2021): 1-28.
+* Guo, Chenghao, Zhiyi Huang, and Xinzhi Zhang. ["Settling the sample complexity of single-parameter revenue maximization."](https://dl.acm.org/doi/abs/10.1145/3313276.3316325) Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing. 2019.
+* Hartline, Jason, and Samuel Taggart. ["Sample complexity for non-truthful mechanisms."](https://dl.acm.org/doi/abs/10.1145/3328526.3329632) Proceedings of the 2019 ACM Conference on Economics and Computation. 2019.
+* Brustle, Johannes, Yang Cai, and Constantinos Daskalakis. ["Multi-item mechanisms without item-independence: Learnability via robustness."](https://dl.acm.org/doi/abs/10.1145/3391403.3399541) Proceedings of the 21st ACM Conference on Economics and Computation. 2020.
+* Bubeck, Sébastien, et al. ["Multi-scale online learning: Theory and applications to online auctions and pricing."](https://www.jmlr.org/papers/volume20/17-498/17-498.pdf) The Journal of Machine Learning Research 20.1 (2019): 2248-2284.
+* Abernethy, Jacob D., et al. ["Learning Auctions with Robust Incentive Guarantees."](http://bhuveshkumar.com/pdf/learning_auctions.pdf) NeurIPS. 2019.
+* Morgenstern, Jamie. [Market Algorithms: Incentives, Learning and Privacy.](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2015/CMU-CS-15-111.pdf) Diss. Stanford University, 2015.
+* Balcan, Maria-Florina, et al. ["How much data is sufficient to learn high-performing algorithms? generalization guarantees for data-driven algorithm design."](https://dl.acm.org/doi/abs/10.1145/3406325.3451036) Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing. 2021.
+* Vitercik, Ellen. [Automated algorithm and mechanism configuration.](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/2021/CMU-CS-21-125.pdf) Diss. Carnegie Mellon University, 2021.
+* Schrijvers, Okke. [Learning and Incentives in Computer Science.](https://www.proquest.com/docview/2509238746?pq-origsite=gscholar&fromopenview=true) Diss. Stanford University, 2017.
+
+
+Citation from paper ["The sample complexity of revenue maximization."](https://dl.acm.org/doi/abs/10.1145/2591796.2591867)
+
+
+* Medina, Andrés Muñoz, and Sergei Vassilvitskii. ["Revenue optimization with approximate bid predictions."](https://dl.acm.org/doi/abs/10.5555/3294771.3294948) Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017
+* Balkanski, Eric, Aviad Rubinstein, and Yaron Singer. ["The limitations of optimization from samples."](https://dl.acm.org/doi/abs/10.1145/3055399.3055406) Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing. 2017.
+* Mohri, Mehryar, and Andrés Munoz Medina. ["Revenue Optimization against Strategic Buyers."](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.737.8928&rep=rep1&type=pdf) NIPS. 2015.
+* Syrgkanis, Vasilis. ["A Sample Complexity Measure with Applications to Learning Optimal Auctions."](https://proceedings.neurips.cc/paper/2017/hash/a7a3d70c6d17a73140918996d03c014f-Abstract.html) Advances in Neural Information Processing Systems 30 (2017): 5352-5359.
+* Bubeck, Sebastien, et al. ["Online auctions and multi-scale online learning."](https://dl.acm.org/doi/abs/10.1145/3033274.3085145) Proceedings of the 2017 ACM Conference on Economics and Computation. 2017.
+* Fu, Hu, et al. ["Optimal auctions for correlated buyers with sampling."](https://dl.acm.org/doi/abs/10.1145/2600057.2602895) Proceedings of the fifteenth ACM conference on Economics and computation. 2014.
+* Huang, Zhiyi, Jinyan Liu, and Xiangning Wang. ["Learning optimal reserve price against non-myopic bidders."](https://dl.acm.org/doi/abs/10.5555/3326943.3327132) Proceedings of the 32nd International Conference on Neural Information Processing Systems. 2018.
+* Blum, Avrim, Yishay Mansour, and Jame Morgenstern. ["Learning valuation distributions from partial observation."](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9550) Twenty-Ninth AAAI Conference on Artificial Intelligence. 2015.
+* Lahaie, Sébastien, et al. ["Testing incentive compatibility in display ad auctions."](https://dl.acm.org/doi/abs/10.1145/3178876.3186047) Proceedings of the 2018 World Wide Web Conference. 2018.
+* Balkanski, Eric, Umar Syed, and Sergei Vassilvitskii. ["Statistical cost sharing."](https://dl.acm.org/doi/abs/10.5555/3295222.3295370) Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017.
+* Trovò, Francesco, et al. ["Improving multi-armed bandit algorithms in online pricing settings."](https://www.sciencedirect.com/science/article/pii/S0888613X17303821) International Journal of Approximate Reasoning 98 (2018): 196-235.
+* Shen, Weiran, Sébastien Lahaie, and Renato Paes Leme. ["Learning to clear the market."](http://proceedings.mlr.press/v97/shen19b.html) International Conference on Machine Learning. PMLR, 2019.
+* Allouah, Amine, and Omar Besbes. ["Sample-based optimal pricing."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3334650) Available at SSRN 3334650 (2019).
+* Rong, Jiang, et al. ["Revenue maximization for finitely repeated ad auctions."](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14871) Thirty-First AAAI Conference on Artificial Intelligence. 2017.
+* Jha, Tushant, and Yair Zick. ["A learning framework for distribution-based game-theoretic solution concepts."](https://dl.acm.org/doi/abs/10.1145/3391403.3399509) Proceedings of the 21st ACM Conference on Economics and Computation. 2020.
+* Fu, Hu, et al. ["Full surplus extraction from samples."](https://www.sciencedirect.com/science/article/pii/S0022053121000478) Journal of Economic Theory 193 (2021): 105230.
+* Mahdian, Mohammad, Vahab Mirrokni, and Song Zuo. ["Incentive-aware learning for large markets."](https://people.eecs.berkeley.edu/~nika/mlstrat/papers/songzuo1.pdf) Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee. 2017
+* Camara, Modibo K., Jason D. Hartline, and Aleck Johnsen. ["Mechanisms for a no-regret agent: Beyond the common prior."](https://ieeexplore.ieee.org/abstract/document/9317992) 2020 IEEE 61st Annual Symposium on Foundations of Computer Science (FOCS). IEEE, 2020.
+* Guo, Wenshuo, Michael I. Jordan, and Manolis Zampetakis. ["Robust Learning of Optimal Auctions."](https://arxiv.org/abs/2107.06259) arXiv preprint arXiv:2107.06259 (2021).
+* Feng, Zhe, and Sébastien Lahaie. ["Robust Clearing Price Mechanisms for Reserve Price Optimization."](https://arxiv.org/abs/2107.04638) arXiv preprint arXiv:2107.04638 (2021).
+* Hu, Yihang, et al. ["Targeting Makes Sample Efficiency in Auction Design."](https://arxiv.org/abs/2105.05123) arXiv preprint arXiv:2105.05123 (2021).
+* Curry, Michael J., et al. ["Learning Revenue-Maximizing Auctions With Differentiable Matching."](https://arxiv.org/abs/2106.07877) arXiv preprint arXiv:2106.07877 (2021).
 
 ## ???(useless and just for fun)
 * [Automated Mechanism Design](https://core.ac.uk/download/pdf/62911178.pdf) by Tuomas Sandholm
