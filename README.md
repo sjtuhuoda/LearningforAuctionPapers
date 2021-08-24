@@ -212,6 +212,33 @@ Citation from paper ["Designing and learning optimal finite support auctions."](
 * Vitercik, Ellen. [Automated algorithm and mechanism configuration.](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/2021/CMU-CS-21-125.pdf) Diss. Carnegie Mellon University, 2021.
 * Schrijvers, Okke. [Learning and Incentives in Computer Science.](https://www.proquest.com/docview/2509238746?pq-origsite=gscholar&fromopenview=true) Diss. Stanford University, 2017.
 
+
+Citation from paper ["The sample complexity of revenue maximization."](https://dl.acm.org/doi/abs/10.1145/2591796.2591867)
+
+
+* Medina, Andrés Muñoz, and Sergei Vassilvitskii. ["Revenue optimization with approximate bid predictions."](https://dl.acm.org/doi/abs/10.5555/3294771.3294948) Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017
+* Balkanski, Eric, Aviad Rubinstein, and Yaron Singer. ["The limitations of optimization from samples."](https://dl.acm.org/doi/abs/10.1145/3055399.3055406) Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing. 2017.
+* Mohri, Mehryar, and Andrés Munoz Medina. ["Revenue Optimization against Strategic Buyers."](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.737.8928&rep=rep1&type=pdf) NIPS. 2015.
+* Syrgkanis, Vasilis. ["A Sample Complexity Measure with Applications to Learning Optimal Auctions."](https://proceedings.neurips.cc/paper/2017/hash/a7a3d70c6d17a73140918996d03c014f-Abstract.html) Advances in Neural Information Processing Systems 30 (2017): 5352-5359.
+* Bubeck, Sebastien, et al. ["Online auctions and multi-scale online learning."](https://dl.acm.org/doi/abs/10.1145/3033274.3085145) Proceedings of the 2017 ACM Conference on Economics and Computation. 2017.
+* Fu, Hu, et al. ["Optimal auctions for correlated buyers with sampling."](https://dl.acm.org/doi/abs/10.1145/2600057.2602895) Proceedings of the fifteenth ACM conference on Economics and computation. 2014.
+* Huang, Zhiyi, Jinyan Liu, and Xiangning Wang. ["Learning optimal reserve price against non-myopic bidders."](https://dl.acm.org/doi/abs/10.5555/3326943.3327132) Proceedings of the 32nd International Conference on Neural Information Processing Systems. 2018.
+* Blum, Avrim, Yishay Mansour, and Jame Morgenstern. ["Learning valuation distributions from partial observation."](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9550) Twenty-Ninth AAAI Conference on Artificial Intelligence. 2015.
+* Lahaie, Sébastien, et al. ["Testing incentive compatibility in display ad auctions."](https://dl.acm.org/doi/abs/10.1145/3178876.3186047) Proceedings of the 2018 World Wide Web Conference. 2018.
+* Balkanski, Eric, Umar Syed, and Sergei Vassilvitskii. ["Statistical cost sharing."](https://dl.acm.org/doi/abs/10.5555/3295222.3295370) Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017.
+* Trovò, Francesco, et al. ["Improving multi-armed bandit algorithms in online pricing settings."](https://www.sciencedirect.com/science/article/pii/S0888613X17303821) International Journal of Approximate Reasoning 98 (2018): 196-235.
+* Shen, Weiran, Sébastien Lahaie, and Renato Paes Leme. ["Learning to clear the market."](http://proceedings.mlr.press/v97/shen19b.html) International Conference on Machine Learning. PMLR, 2019.
+* Allouah, Amine, and Omar Besbes. ["Sample-based optimal pricing."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3334650) Available at SSRN 3334650 (2019).
+* Rong, Jiang, et al. ["Revenue maximization for finitely repeated ad auctions."](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14871) Thirty-First AAAI Conference on Artificial Intelligence. 2017.
+* Jha, Tushant, and Yair Zick. ["A learning framework for distribution-based game-theoretic solution concepts."](https://dl.acm.org/doi/abs/10.1145/3391403.3399509) Proceedings of the 21st ACM Conference on Economics and Computation. 2020.
+* Fu, Hu, et al. ["Full surplus extraction from samples."](https://www.sciencedirect.com/science/article/pii/S0022053121000478) Journal of Economic Theory 193 (2021): 105230.
+* Mahdian, Mohammad, Vahab Mirrokni, and Song Zuo. ["Incentive-aware learning for large markets."](https://people.eecs.berkeley.edu/~nika/mlstrat/papers/songzuo1.pdf) Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee. 2017
+* Camara, Modibo K., Jason D. Hartline, and Aleck Johnsen. ["Mechanisms for a no-regret agent: Beyond the common prior."](https://ieeexplore.ieee.org/abstract/document/9317992) 2020 IEEE 61st Annual Symposium on Foundations of Computer Science (FOCS). IEEE, 2020.
+* Guo, Wenshuo, Michael I. Jordan, and Manolis Zampetakis. ["Robust Learning of Optimal Auctions."](https://arxiv.org/abs/2107.06259) arXiv preprint arXiv:2107.06259 (2021).
+* Feng, Zhe, and Sébastien Lahaie. ["Robust Clearing Price Mechanisms for Reserve Price Optimization."](https://arxiv.org/abs/2107.04638) arXiv preprint arXiv:2107.04638 (2021).
+* Hu, Yihang, et al. ["Targeting Makes Sample Efficiency in Auction Design."](https://arxiv.org/abs/2105.05123) arXiv preprint arXiv:2105.05123 (2021).
+* Curry, Michael J., et al. ["Learning Revenue-Maximizing Auctions With Differentiable Matching."](https://arxiv.org/abs/2106.07877) arXiv preprint arXiv:2106.07877 (2021).
+
 ## ???(useless and just for fun)
 * [Automated Mechanism Design](https://core.ac.uk/download/pdf/62911178.pdf) by Tuomas Sandholm
 * Heymann, Benjamin. ["How to bid in unified second-price auctions when requests are duplicated."](https://www.sciencedirect.com/science/article/pii/S0167637720300778) Operations Research Letters 48.4 (2020): 446-451.
