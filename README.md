@@ -16,8 +16,11 @@ We are updating the list now :-)
 
 * Mosavi, Amirhosein, et al. ["Comprehensive review of deep reinforcement learning methods and applications in economics."](https://www.mdpi.com/2227-7390/8/10/1640) Mathematics 8.10 (2020): 1640.
 * Charpentier, Arthur, Romuald Elie, and Carl Remlinger. ["Reinforcement learning in economics and finance."](https://link.springer.com/article/10.1007/s10614-021-10119-4) Computational Economics (2021): 1-38.
-*  Bichler, Martin, et al. ["Learning equilibria in symmetric auction games using artificial neural networks."](http://dss.in.tum.de/files/bichler-research/2021_Nature_Bichler_Equilibrium_Learning.pdf) Nature Machine Intelligence (2021): 1-9.
-*  Finocchiaro, Jessie, et al. ["Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness."](https://arxiv.org/pdf/2010.05434.pdf) *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*. 2021.
+* Bichler, Martin, et al. ["Learning equilibria in symmetric auction games using artificial neural networks."](http://dss.in.tum.de/files/bichler-research/2021_Nature_Bichler_Equilibrium_Learning.pdf) Nature Machine Intelligence (2021): 1-9.
+* Finocchiaro, Jessie, et al. ["Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness."](https://arxiv.org/pdf/2010.05434.pdf) *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*. 2021.
+* Dütting, Paul, et al. ["Machine learning for optimal economic design."](https://econcs.seas.harvard.edu/files/econcs/files/duetting_fed19.pdf) *The Future of Economic Design*. Springer, Cham, 2019. 495-515. [Short version](https://dash.harvard.edu/bitstream/handle/1/41718766/73407892.pdf?sequence=1&isAllowed=y)
+* Chen, Jiafeng, and Scott Duke Kominers. ["Auctions with entry versus entry in auctions."](https://scholar.harvard.edu/files/chenj/files/jc_sdk_entry_vs_entry.pdf) *Available at SSRN* (2018).
+* **Nedelec, Thomas, et al. ["Learning in repeated auctions."](https://arxiv.org/pdf/2011.09365.pdf) *arXiv preprint arXiv:2011.09365* (2020).**
 
 ## Theory Research
 
@@ -83,12 +86,15 @@ Typically modeled as LP or search problem with constraints here.
 ### Robustness
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
 * Nedelec, Thomas, et al. ["Adversarial learning for revenue-maximizing auctions."](https://arxiv.org/pdf/1909.06806.pdf) arXiv preprint arXiv:199.06806 (2019).
+* Nedelec, Thomas, et al. ["Thresholding at the monopoly price: an agnostic way to improve bidding strategies in revenue-maximizing auctions."](https://arxiv.org/pdf/1808.06979.pdf) *arXiv preprint arXiv:1808.06979* (2018).
 
 ### Sample
 
 ### BNE
 
 * Heidekrüger, Stefan, et al. ["Equilibrium Learning in Combinatorial Auctions: Computing Approximate Bayesian Nash Equilibria via Pseudogradient Dynamics." ](https://arxiv.org/pdf/2101.11946.pdf)*arXiv preprint arXiv:2101.11946* (2021).
+* Cai, Yang, et al. ["An Efficient $\varepsilon $-BIC to BIC Transformation and Its Application to Black-Box Reduction in Revenue Maximization."](https://arxiv.org/pdf/1911.10172.pdf) *arXiv preprint arXiv:1911.10172* (2019).
+* Conitzer, Vincent, et al. ["Welfare-Preserving $\varepsilon $-BIC to BIC Transformation with Negligible Revenue Loss."](https://arxiv.org/pdf/2007.09579.pdf) *arXiv preprint arXiv:2007.09579* (2020).
 
 
 ## Learning Methods
@@ -97,6 +103,8 @@ Typically modeled as LP or search problem with constraints here.
 * **Dütting, Paul, et al. ["Optimal auctions through deep learning."](http://proceedings.mlr.press/v97/duetting19a/duetting19a.pdf) International Conference on Machine Learning. PMLR, 2019.**
 * Feng, Zhe, Harikrishna Narasimhan, and David C. Parkes. ["Deep learning for revenue-optimal auctions with budgets."](http://ifaamas.org/Proceedings/aamas2018/pdfs/p354.pdf) Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems. 2018.
 * Kuo, Kevin, et al. ["ProportionNet: Balancing Fairness and Revenue for Auction Design with Deep Learning."](https://arxiv.org/pdf/2010.06398.pdf) *arXiv preprint arXiv:2010.06398* (2020).
+* Peri, Neehar, et al. ["PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning."](https://arxiv.org/pdf/2106.03215.pdf) *arXiv preprint arXiv:2106.03215* (2021).
+* Padala, Manisha, and Sujit Gujar. ["FNNC: Achieving Fairness through Neural Networks."](https://web.archive.org/web/20201104184613id_/https://www.ijcai.org/Proceedings/2020/0315.pdf) *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence,{IJCAI-20}, International Joint Conferences on Artificial Intelligence Organization*. 2020.
 * Sakurai, Yuko, et al. ["Deep false-name-proof auction mechanisms." ](https://cs.adelaide.edu.au/users/mingyu/publication/prima19.pdf)*International Conference on Principles and Practice of Multi-Agent Systems*. Springer, Cham, 2019.
 * Rahme, Jad, Samy Jelassi, and S. Matthew Weinberg. ["Auction learning as a two-player game."](https://arxiv.org/abs/2006.05684) arXiv preprint arXiv:2006.05684 (2020).
 * Weissteiner, Jakob, and Sven Seuken. ["Deep Learning—Powered Iterative Combinatorial Auctions."](Weissteiner, Jakob, and Sven Seuken. "Deep Learning—Powered Iterative Combinatorial Auctions." *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.) *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.
@@ -105,10 +113,13 @@ Typically modeled as LP or search problem with constraints here.
 ### RL
 
 * Brero, Gianluca, et al. ["Reinforcement Learning of Sequential Price Mechanisms."](https://arxiv.org/pdf/2010.01180.pdf) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
+* Rheingans-Yoo, Duncan. [*Reinforcement Learning for Indirect Mechanism Design*.](https://dash.harvard.edu/bitstream/handle/1/37364752/RHEINGANS-YOO-SENIORTHESIS-2020.pdf?sequence=1&isAllowed=y) Diss. 2020.
+* Schlechtinger, Michael, et al. ["Winning at Any Cost--Infringing the Cartel Prohibition With Reinforcement Learning."](Schlechtinger, Michael, et al. "Winning at Any Cost--Infringing the Cartel Prohibition With Reinforcement Learning." *arXiv preprint arXiv:2107.01856* (2021).) *arXiv preprint arXiv:2107.01856* (2021).
 
 ###  Hybrid auction design
 * **Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/pdf/1907.05181.pdf) arXiv preprint arXiv:1907.05181 (2019).**
 * Weissteiner, Jakob, et al. ["Fourier analysis-based iterative combinatorial auctions."](https://arxiv.org/pdf/2009.10749.pdf) *arXiv preprint arXiv:2009.10749* (2020).
+* Brero, Gianluca, Benjamin Lubin, and Sven Seuken. ["Machine learning-powered iterative combinatorial auctions."](https://arxiv.org/pdf/1911.08042.pdf) *arXiv preprint arXiv:1911.08042* (2019).
 
 ### Specialized net
 * **Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).**
@@ -121,9 +132,12 @@ Typically modeled as LP or search problem with constraints here.
 ### Advertisement Auction
 * Shen, Weiran, et al. ["Reinforcement mechanism design: With applications to dynamic pricing in sponsored search auctions."](https://doi.org/10.1609/aaai.v34i02.5600) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 02. 2020.
 * Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021.
+* Liu, Xiangyu, et al. ["Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising."](https://arxiv.org/pdf/2106.03593.pdf) *arXiv preprint arXiv:2106.03593* (2021).
 
 ### Others
 * Luong, Nguyen Cong, et al. ["Optimal auction for edge computing resource management in mobile blockchain networks: A deep learning approach."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422743&tag=1) 2018 IEEE International Conference on Communications (ICC). IEEE, 2018.
+* Lee, Haemin, et al. ["Auction-based Deep Learning Computation Offloading for Truthful Edge Computing: A Myerson Auction Approach."](https://ieeexplore.ieee.org/abstract/document/9334016) *2021 International Conference on Information Networking (ICOIN)*. IEEE, 2021.
+* Nwogugu, Michael CI. ["Complexity, Stability Properties Of Mixed Games And Dynamic Algorithms, And'Learning'In The Sharing Economy."](https://arxiv.org/ftp/arxiv/papers/2001/2001.08192.pdf) *And'Learning'In The Sharing Economy.(2017 (Revised 2019))* (2017).
 
 
 ## Waiting for Classification
@@ -235,3 +249,4 @@ Citation from paper ["The sample complexity of revenue maximization."](https://d
 * [Automated Mechanism Design](https://core.ac.uk/download/pdf/62911178.pdf) by Tuomas Sandholm
 * Heymann, Benjamin. ["How to bid in unified second-price auctions when requests are duplicated."](https://www.sciencedirect.com/science/article/pii/S0167637720300778) Operations Research Letters 48.4 (2020): 446-451.
 * Dafoe, Allan, et al. ["Open problems in cooperative AI."](https://arxiv.org/pdf/2012.08630.pdf) arXiv preprint arXiv:2012.08630 (2020).
+* Dimitriadis, Nikolaos, and Petros Maragos. ["Advances in the training, pruning and enforcement of shape constraints of Morphological Neural Networks using Tropical Algebra."](https://arxiv.org/pdf/2011.07643.pdf) *arXiv preprint arXiv:2011.07643* (2020).
