@@ -87,6 +87,7 @@ Typically modeled as LP or search problem with constraints here.
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
 * Nedelec, Thomas, et al. ["Adversarial learning for revenue-maximizing auctions."](https://arxiv.org/pdf/1909.06806.pdf) arXiv preprint arXiv:199.06806 (2019).
 * Nedelec, Thomas, et al. ["Thresholding at the monopoly price: an agnostic way to improve bidding strategies in revenue-maximizing auctions."](https://arxiv.org/pdf/1808.06979.pdf) *arXiv preprint arXiv:1808.06979* (2018).
+* Nedelec, Thomas, et al. ["Robust Stackelberg buyers in repeated auctions."](http://proceedings.mlr.press/v108/nedelec20a.html) International Conference on Artificial Intelligence and Statistics. PMLR, 2020.
 
 ### Sample
 
@@ -109,6 +110,7 @@ Typically modeled as LP or search problem with constraints here.
 * Rahme, Jad, Samy Jelassi, and S. Matthew Weinberg. ["Auction learning as a two-player game."](https://arxiv.org/abs/2006.05684) arXiv preprint arXiv:2006.05684 (2020).
 * Weissteiner, Jakob, and Sven Seuken. ["Deep Learning—Powered Iterative Combinatorial Auctions."](Weissteiner, Jakob, and Sven Seuken. "Deep Learning—Powered Iterative Combinatorial Auctions." *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.) *Proceedings of the AAAI Conference on Artificial Intelligence*. Vol. 34. No. 02. 2020.
 * Rahme, Jad, et al. ["A permutation-equivariant neural network architecture for auction design."](https://www.aaai.org/AAAI21Papers/AAAI-8437.RahmeJ.pdf) *arXiv preprint arXiv:2003.01497* (2020).
+* Curry, Michael J., et al. ["Learning Revenue-Maximizing Auctions With Differentiable Matching."](https://arxiv.org/abs/2106.07877) arXiv preprint arXiv:2106.07877 (2021).
 
 ### RL
 
@@ -119,7 +121,7 @@ Typically modeled as LP or search problem with constraints here.
 ###  Hybrid auction design
 * **Tacchetti, Andrea, et al. ["A neural architecture for designing truthful and efficient auctions."](https://arxiv.org/pdf/1907.05181.pdf) arXiv preprint arXiv:1907.05181 (2019).**
 * Weissteiner, Jakob, et al. ["Fourier analysis-based iterative combinatorial auctions."](https://arxiv.org/pdf/2009.10749.pdf) *arXiv preprint arXiv:2009.10749* (2020).
-* Brero, Gianluca, Benjamin Lubin, and Sven Seuken. ["Machine learning-powered iterative combinatorial auctions."](https://arxiv.org/pdf/1911.08042.pdf) *arXiv preprint arXiv:1911.08042* (2019).
+* Brero, Gianluca, Benjamin Lubin, and Sven Seuken. ["Machine learning-powered iterative combinatorial auctions."](https://arxiv.org/pdf/1911.08042.pdf) *arXiv preprint arXiv:1911.08042* (2019).([another](https://arxiv.org/abs/2009.13605))
 
 ### Specialized net
 * **Shen, Weiran, Pingzhong Tang, and Song Zuo. ["Automated mechanism design via neural networks."](https://arxiv.org/pdf/1805.03382.pdf) arXiv preprint arXiv:1805.03382 (2018).**
@@ -141,17 +143,11 @@ Typically modeled as LP or search problem with constraints here.
 
 
 ## Waiting for Classification
-* Zhang, Hanrui, Yu Cheng, and Vincent Conitzer. ["Automated mechanism design for classification with partial verification."](https://ojs.aaai.org/index.php/AAAI/article/view/16725) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
-* Rahme, Jad, et al. ["A permutation-equivariant neural network architecture for auction design."](https://arxiv.org/abs/2003.01497) arXiv preprint arXiv:2003.01497 (2020).
 * Zhao, Xiangyu, et al. ["Deep reinforcement learning for page-wise recommendations."](ttps://dl.acm.org/doi/abs/10.1145/3240323.3240374) Proceedings of the 12th ACM Conference on Recommender Systems. 2018.
 * Cai, Qingpeng, et al. ["Reinforcement mechanism design for fraudulent behaviour in e-commerce."](https://ojs.aaai.org/index.php/AAAI/article/view/11452) Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 * Zhao, Xiangyu, et al. ["Deep Reinforcement Learning for Whole-Chain Recommendations."](https://noteflow.oss-cn-beijing.aliyuncs.com/media/upload/JBWWZPYtcA.pdf) (2020).
 * Zhao, Mengchen, et al. ["Impression Allocation for Combating Fraud in E-commerce Via Deep Reinforcement Learning with Action Norm Penalty."](https://personal.ntu.edu.sg/boan/papers/IJCAI18_Alibaba.pdf) IJCAI. 2018.
 * Stein, Sebastian, et al. ["Strategyproof reinforcement learning for online resource allocation."](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1296.pdf) (2020): 1296-1304.
-* Lee, Haemin, et al. ["Auction-based Deep Learning Computation Offloading for Truthful Edge Computing: A Myerson Auction Approach."](https://doi.org/10.1109/ICOIN50884.2021.9334016) 2021 International Conference on Information Networking (ICOIN). IEEE, 2021.
-* Nedelec, Thomas, et al. ["Robust Stackelberg buyers in repeated auctions."](http://proceedings.mlr.press/v108/nedelec20a.html) International Conference on Artificial Intelligence and Statistics. PMLR, 2020.
-* Qian, Jun, et al. ["Optimal Auction for Resource Allocation in Wireless Virtualization: A Deep Learning Approach."](10.1109/ICPADS47876.2019.00082) 2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS). IEEE, 2019.
-* Zuzic, Goran, et al. ["Learning Robust Algorithms for Online Allocation Problems Using Adversarial Training."](https://arxiv.org/pdf/2010.08418.pdf) arXiv preprint arXiv:2010.08418 (2020).
 * Huang, Zhiyi, Yishay Mansour, and Tim Roughgarden. ["Making the most of your samples."](https://epubs.siam.org/doi/abs/10.1137/16M1065719) SIAM Journal on Computing 47.3 (2018): 651-674.
 
 
@@ -159,7 +155,7 @@ Typically modeled as LP or search problem with constraints here.
 * Likhodedov, Anton, and Tuomas Sandholm. ["Approximating revenue-maximizing combinatorial auctions."](https://www.aaai.org/Papers/AAAI/2005/AAAI05-043.pdf) AAAI. Vol. 5. 2005.
 * Likhodedov, Anton, and Tuomas Sandholm. ["Methods for boosting revenue in combinatorial auctions."](https://www.aaai.org/Papers/AAAI/2004/AAAI04-037.pdf) AAAI. 2004.
 * Sandholm, Tuomas, and Andrew Gilpin. ["Sequences of take-it-or-leave-it offers: Near-optimal auctions without full valuation revelation."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_5) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
-* Likhodedov, Anton, and Tuomas Sandholm. 【"Mechanism for optimally trading off revenue and efficiency in multi-unit auctions."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_6) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
+* Likhodedov, Anton, and Tuomas Sandholm. ["Mechanism for optimally trading off revenue and efficiency in multi-unit auctions."](https://link.springer.com/chapter/10.1007/978-3-540-25947-3_6) International Workshop on Agent-Mediated Electronic Commerce. Springer, Berlin, Heidelberg, 2003.
 * Elkind, Edith. ["Designing and learning optimal finite support auctions."](https://dl.acm.org/doi/abs/10.5555/1283383.1283462) Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. 2007.
 
 Citation from paper [Automated mechanism design: A new application area for search algorithms](https://link.springer.com/chapter/10.1007/978-3-540-45193-8_2)
@@ -250,3 +246,4 @@ Citation from paper ["The sample complexity of revenue maximization."](https://d
 * Heymann, Benjamin. ["How to bid in unified second-price auctions when requests are duplicated."](https://www.sciencedirect.com/science/article/pii/S0167637720300778) Operations Research Letters 48.4 (2020): 446-451.
 * Dafoe, Allan, et al. ["Open problems in cooperative AI."](https://arxiv.org/pdf/2012.08630.pdf) arXiv preprint arXiv:2012.08630 (2020).
 * Dimitriadis, Nikolaos, and Petros Maragos. ["Advances in the training, pruning and enforcement of shape constraints of Morphological Neural Networks using Tropical Algebra."](https://arxiv.org/pdf/2011.07643.pdf) *arXiv preprint arXiv:2011.07643* (2020).
+* https://openreview.net/attachment?id=HygYmJBKwH&name=original_pdf
