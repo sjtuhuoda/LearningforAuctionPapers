@@ -137,12 +137,12 @@ Typically modeled as LP or search problem with constraints here.
 
 ### RL
 
-* Brero, Gianluca, et al. ["Reinforcement Learning of Sequential Price Mechanisms."](https://arxiv.org/pdf/2010.01180.pdf) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
+* Brero, Gianluca, et al. ["Reinforcement Learning of Sequential Price Mechanisms."](https://ojs.aaai.org/index.php/AAAI/article/view/16659) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021.
 
 ### Bidding Strategy
 
 * Nedelec, Thomas, Noureddine El Karoui, and Vianney Perchet. ["Learning to bid in revenue-maximizing auctions."](http://proceedings.mlr.press/v97/nedelec19a/nedelec19a.pdf) International Conference on Machine Learning. PMLR, 2019.
-* Nedelec, Thomas, et al. ["Adversarial learning for revenue-maximizing auctions."](https://arxiv.org/pdf/1909.06806.pdf) arXiv preprint arXiv:199.06806 (2019).
+* Nedelec, Thomas, et al. ["Adversarial Learning in Revenue-Maximizing Auctions"](https://dl.acm.org/doi/abs/10.5555/3463952.3464064) Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS '21).
 * Nedelec, Thomas, et al. ["Thresholding at the monopoly price: an agnostic way to improve bidding strategies in revenue-maximizing auctions."](https://arxiv.org/pdf/1808.06979.pdf) *arXiv preprint arXiv:1808.06979* (2018).
 * Nedelec, Thomas, et al. ["Robust Stackelberg buyers in repeated auctions."](http://proceedings.mlr.press/v108/nedelec20a.html) International Conference on Artificial Intelligence and Statistics. PMLR, 2020.
 
@@ -155,8 +155,8 @@ Typically modeled as LP or search problem with constraints here.
 ### Advertisement Auction
 
 * Shen, Weiran, et al. ["Reinforcement mechanism design: With applications to dynamic pricing in sponsored search auctions."](https://doi.org/10.1609/aaai.v34i02.5600) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 02. 2020.
-* Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining. 2021.
-* Liu, Xiangyu, et al. ["Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising."](https://arxiv.org/pdf/2106.03593.pdf) *arXiv preprint arXiv:2106.03593* (2021).
+* Zhang, Zhilin, et al. ["Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising."](https://doi.org/10.1145/3437963.3441771) Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM '2021).
+* Liu, Xiangyu, et al. ["Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising."](https://dl.acm.org/doi/10.1145/3447548.3467103) Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD '21).
 * Celis, Elisa, Anay Mehrotra, and Nisheeth Vishnoi. ["Toward controlling discrimination in online ad auctions."](http://proceedings.mlr.press/v97/mehrotra19a/mehrotra19a.pdf) *International Conference on Machine Learning*. PMLR, 2019.
 * Lahaie, Sébastien, et al. ["Testing incentive compatibility in display ad auctions."](https://dl.acm.org/doi/pdf/10.1145/3178876.3186047) *Proceedings of the 2018 World Wide Web Conference*. 2018.
 * Feng, Zhe, Okke Schrijvers, and Eric Sodomka. ["Online learning for measuring incentive compatibility in ad auctions?."](https://dl.acm.org/doi/pdf/10.1145/3308558.3313674) *The World Wide Web Conference*. 2019.
