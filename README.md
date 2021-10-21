@@ -256,6 +256,7 @@ Citation from paper ["The sample complexity of revenue maximization."](https://d
 * https://openreview.net/attachment?id=HygYmJBKwH&name=original_pdf
 * “Optimal auctions with restricted allocations
 * A necessary and sufficient condition for rationalizability in a quasi-linear context
+* Towards Deep Learning Models Resistant to Adversarial Attacks
 
 
 
